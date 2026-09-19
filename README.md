@@ -45,7 +45,7 @@ const Yuvalakshmi = {
 
 <img src="https://skillicons.dev/icons?i=py,c&theme=dark" alt="languages" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,git&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="tools" />
 
 </div>
 
