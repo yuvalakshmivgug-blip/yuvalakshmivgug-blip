@@ -23,9 +23,9 @@
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
 
 ```typescript
-const Yuvalakshmi = {
-    pronouns    : "he" as const,
-    title       : "B.Tech CSE (AI/ML) · DPS Siliguri Alumnus",
+const ayush = {
+    pronouns    : "she" as const,
+    title       : "B.Tech CSE (AI/ML) · PSBB KKN Alumnus",
     stack       : ["Python", "C", "MySQL"]
     achievements: [
         "Smart India Hackathon · AI/ML"
@@ -45,7 +45,7 @@ const Yuvalakshmi = {
 
 <img src="https://skillicons.dev/icons?i=py,c&theme=dark" alt="languages" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=mysql,git&theme=dark" alt="tools" />
 
 </div>
 
