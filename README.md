@@ -44,80 +44,6 @@ const ayush = {
 
 <br/>
 
-<!-- ── FEATURED PROJECTS ─────────────────────────────────────── -->
-
-<h2 align="center">projects</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🏙️ UrbanSight</h3>
-<p align="center">
-  <a href="https://github.com/ayushdas27/urban-mobility-intelligence-platform">
-    <img src="https://img.shields.io/badge/urban--mobility--intelligence--platform-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ayushdas27/urban-mobility-intelligence-platform?style=flat&color=34d399&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/forks/ayushdas27/urban-mobility-intelligence-platform?style=flat&color=7dd3fc&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/languages/top/ayushdas27/urban-mobility-intelligence-platform?style=flat&color=34d399&labelColor=0f172a" />
-</p>
-<p align="center"><sub>AI-powered urban intelligence platform that uses computer vision and public transport fleets to detect road issues, analyze traffic and provide geospatial insights.</sub></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🌙 LunarAlign</h3>
-<p align="center">
-  <a href="https://github.com/ayushdas27/lunar-align">
-    <img src="https://img.shields.io/badge/lunar--align-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="repo" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ayushdas27/lunar-align?style=flat&color=34d399&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/forks/ayushdas27/lunar-align?style=flat&color=7dd3fc&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/languages/top/ayushdas27/lunar-align?style=flat&color=34d399&labelColor=0f172a" />
-</p>
-<p align="center"><sub>AI-based lunar image correspondence system for identifying corresponding regions across Chandrayaan-2 imagery using computer vision and multimodal image analysis.</sub></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📦 QUANTAM</h3>
-<p align="center">
-  <a href="https://github.com/ayushdas27/QUANTAM">
-    <img src="https://img.shields.io/badge/QUANTAM-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ayushdas27/QUANTAM?style=flat&color=34d399&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/forks/ayushdas27/QUANTAM?style=flat&color=7dd3fc&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/languages/top/ayushdas27/QUANTAM?style=flat&color=34d399&labelColor=0f172a" />
-</p>
-<p align="center"><sub>Digital procurement solution designed to streamline procurement workflows and make the process more accessible and efficient.</sub></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">✨ More Coming Soon</h3>
-<p align="center">
-  <a href="https://github.com/ayushdas27?tab=repositories">
-    <img src="https://img.shields.io/badge/view%20all%20repos-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="all repos" />
-  </a>
-</p>
-<p align="center"><sub>Exploring real-world applications of AI/ML — always building, always shipping.</sub></p>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
 <!-- ── LANGUAGES & TOOLS ─────────────────────────────────────── -->
 
 <h2 align="center">languages & tools</h2>
@@ -152,11 +78,8 @@ const ayush = {
 
 <a href="https://www.linkedin.com/in/ayushdasofficial27112007/"><img src="https://img.shields.io/badge/linkedin-0f172a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzc0ZDNmYyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzcwLTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwIi8+PC9zdmc+" /></a>
 &ensp;
-<a href="https://x.com/das_ayushh"><img src="https://img.shields.io/badge/twitter-0f172a?style=for-the-badge&logo=x&logoColor=34d399" /></a>
-&ensp;
-<a href="https://www.instagram.com/yu.shhh_/"><img src="https://img.shields.io/badge/instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=7dd3fc" /></a>
-&ensp;
-<a href="mailto:ayushdps2020@gmail.com"><img src="https://img.shields.io/badge/gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=34d399" /></a>
+
+<a href="mailto:yuvalakshmivgug@gmail.com"><img src="https://img.shields.io/badge/gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=34d399" /></a>
 
 </div>
 
