@@ -23,7 +23,7 @@
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
 
 ```typescript
-const ayush = {
+const Yuvalakshmi = {
     pronouns    : "he" as const,
     title       : "B.Tech CSE (AI/ML) · DPS Siliguri Alumnus",
     stack       : ["Python", "C", "MySQL"]
@@ -57,7 +57,7 @@ const ayush = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yuvalakshmivgug&hide_border=true&background=0f172a&stroke=1e293b&ring=34d399&fire=7dd3fc&currStreakNum=34d399&sideNums=7dd3fc&currStreakLabel=34d399&sideLabels=94a3b8&dates=475569" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Yuvalakshmi &hide_border=true&background=0f172a&stroke=1e293b&ring=34d399&fire=7dd3fc&currStreakNum=34d399&sideNums=7dd3fc&currStreakLabel=34d399&sideLabels=94a3b8&dates=475569" alt="streak" />
 
 </div>
 
