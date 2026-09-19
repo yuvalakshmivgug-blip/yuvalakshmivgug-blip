@@ -12,7 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Yuvalakshmi&label=visitors&color=34d399&style=flat&labelColor=0f172a" alt="visitors" />
 &ensp;
-<a href="https://github.com/Yuvalakshmi?tab=followers"><img src="https://img.shields.io/github/followers/ayushdas27?style=flat&color=7dd3fc&labelColor=0f172a&label=followers" alt="followers" /></a>
+<a href="https://github.com/Yuvalakshmi?tab=followers"><img src="https://img.shields.io/github/followers/Yuvalakshmi?style=flat&color=7dd3fc&labelColor=0f172a&label=followers" alt="followers" /></a>
 &ensp;
 <img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-34d399?style=flat&labelColor=0f172a" alt="open to work" />
 
