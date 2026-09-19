@@ -23,7 +23,7 @@
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
 
 ```typescript
-const ayush = {
+const Yuvalakshmi = {
     pronouns    : "she" as const,
     title       : "B.Tech CSE (AI/ML) · PSBB KKN Alumnus",
     stack       : ["Python", "C", "MySQL"]
